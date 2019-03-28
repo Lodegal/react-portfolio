@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/react-portfolio/static/media/tajam.fcfdeb87.png"
   },
   {
-    "revision": "7d3366570cb14891b6b6",
+    "revision": "f7db4fbf51eeae84e909",
     "url": "/react-portfolio/static/css/main.19f79eab.chunk.css"
   },
   {
@@ -28,12 +28,16 @@ self.__precacheManifest = [
     "url": "/react-portfolio/static/media/Awax.f112d098.png"
   },
   {
-    "revision": "7d3366570cb14891b6b6",
-    "url": "/react-portfolio/static/js/main.2d7b25d3.chunk.js"
+    "revision": "f7db4fbf51eeae84e909",
+    "url": "/react-portfolio/static/js/main.dc2ac09c.chunk.js"
   },
   {
     "revision": "1959fb74efb970bf95a6ba61af438a6f",
     "url": "/react-portfolio/static/media/Idea.1959fb74.png"
+  },
+  {
+    "revision": "c801dd36d6167008f7e595029a7d65f3",
+    "url": "/react-portfolio/static/media/Orbitron-Regular.c801dd36.woff"
   },
   {
     "revision": "2df4c8dbe4eb952a776f840cf9d93a13",
@@ -48,15 +52,11 @@ self.__precacheManifest = [
     "url": "/react-portfolio/static/media/Orbitron-Regular.20838451.eot"
   },
   {
-    "revision": "c801dd36d6167008f7e595029a7d65f3",
-    "url": "/react-portfolio/static/media/Orbitron-Regular.c801dd36.woff"
-  },
-  {
     "revision": "e3a6388db509b268e26c",
     "url": "/react-portfolio/static/css/2.1b264c32.chunk.css"
   },
   {
-    "revision": "f0dd03422b6de3b081849c015f0f92fd",
+    "revision": "7e03ddd4745eac44327c9f74a25ad194",
     "url": "/react-portfolio/index.html"
   }
 ];
