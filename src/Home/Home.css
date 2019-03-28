@@ -1,0 +1,11 @@
+.section-home {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+}
+@media (max-width: 575px) {
+	.section-home {
+		height: auto;
+		padding: 60px 0 40px 0;
+	}
+}
