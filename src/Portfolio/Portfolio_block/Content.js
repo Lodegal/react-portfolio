@@ -3,7 +3,7 @@ export default [
 		'title' : 'Barbershop Website',
 		'text' : 'With an elegant and modern design the site look professional and be easy to use. The colors scheme fits perfectly, the layout is clean with the necessary information.',
 		'link' : 'https://Barbershop.com',
-		'url' : '../src/projects/tajam/dev/index.html'
+		'url' : 'https://lodegal.github.io/react-portfolio/src/projects/tajam/dev/index.html'
 	},{
 		'title' : 'Awax Website',
 		'text' : 'You know that the audience on the Internet is becoming more demanding of graphic elements. No one pays attention to low quality sites. Awax allows you to use all the features of modern web design. Awax is a multipurpose landing page based on a Bootstrap grid system.',
