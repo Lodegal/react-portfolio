@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/react-portfolio/static/media/tajam.fcfdeb87.png"
   },
   {
-    "revision": "cfe2ed5cfe6454f0452b",
+    "revision": "7d3366570cb14891b6b6",
     "url": "/react-portfolio/static/css/main.19f79eab.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/react-portfolio/static/media/my-photo.177c6033.jpg"
   },
   {
-    "revision": "553c062fce2228ba5d34",
-    "url": "/react-portfolio/static/js/2.4ccc0090.chunk.js"
+    "revision": "e3a6388db509b268e26c",
+    "url": "/react-portfolio/static/js/2.2bb4b2aa.chunk.js"
   },
   {
     "revision": "06f25ca4be460f95360e55860ecf7ac2",
@@ -28,16 +28,12 @@ self.__precacheManifest = [
     "url": "/react-portfolio/static/media/Awax.f112d098.png"
   },
   {
-    "revision": "cfe2ed5cfe6454f0452b",
-    "url": "/react-portfolio/static/js/main.16177678.chunk.js"
+    "revision": "7d3366570cb14891b6b6",
+    "url": "/react-portfolio/static/js/main.2d7b25d3.chunk.js"
   },
   {
     "revision": "1959fb74efb970bf95a6ba61af438a6f",
     "url": "/react-portfolio/static/media/Idea.1959fb74.png"
-  },
-  {
-    "revision": "c801dd36d6167008f7e595029a7d65f3",
-    "url": "/react-portfolio/static/media/Orbitron-Regular.c801dd36.woff"
   },
   {
     "revision": "2df4c8dbe4eb952a776f840cf9d93a13",
@@ -52,11 +48,15 @@ self.__precacheManifest = [
     "url": "/react-portfolio/static/media/Orbitron-Regular.20838451.eot"
   },
   {
-    "revision": "553c062fce2228ba5d34",
+    "revision": "c801dd36d6167008f7e595029a7d65f3",
+    "url": "/react-portfolio/static/media/Orbitron-Regular.c801dd36.woff"
+  },
+  {
+    "revision": "e3a6388db509b268e26c",
     "url": "/react-portfolio/static/css/2.1b264c32.chunk.css"
   },
   {
-    "revision": "ca652f0e17595312c4b61e02168dcb5b",
+    "revision": "f0dd03422b6de3b081849c015f0f92fd",
     "url": "/react-portfolio/index.html"
   }
 ];
