@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Route, Link } from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.css'
 import Header from './components/Header/Header';
 import Menu from './components/Menu/Menu';
