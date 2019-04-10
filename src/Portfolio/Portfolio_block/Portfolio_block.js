@@ -2,8 +2,6 @@ import React, { Component } from 'react';
 import './Portfolio_block.css';
 import '../../About/About_block/About_block.css';
 
-
-
 export default class Portfolio_block extends Component {
 	render() {
 		const {content} = this.props;
