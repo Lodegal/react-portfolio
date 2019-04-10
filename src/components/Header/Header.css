@@ -1,14 +1,16 @@
 .header {
 	padding: 10px 20px;
 	background-color: #212529;
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
 	position: fixed;
 	top: 0;
 	left: 0;
 	right: 0;
 	z-index: 3;
+}
+.header__top {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 }
 .logo__link {
 	font-size: 18px;

@@ -8,6 +8,7 @@ import About from './About/About';
 import Overlay from './components/Overlay/Overlay';
 import Portfolio from './Portfolio/Portfolio';
 import ScrollLock, { TouchScrollable } from 'react-scrolllock';
+import ScrollUpButton from "react-scroll-up-button";
 
 export default class App extends Component {
 	constructor(props) {
@@ -23,6 +24,7 @@ export default class App extends Component {
     return (
        <Router>
 					 <ScrollLock isActive={this.state.openMenu} />
+				   <ScrollUpButton />
            <Header handleClick={this.handleClick} openMenu={this.state.openMenu}/>
            <Menu  handleClick={this.handleClick} openMenu={this.state.openMenu}/>
            <Overlay handleClick={this.handleClick} openMenu={this.state.openMenu} />

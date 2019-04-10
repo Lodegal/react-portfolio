@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import {Link} from "react-router-dom";
 import './Header.css'
+import IndicatorOfScroll from './IndicatorOfScroll/IndicatorOfScroll'
 
 export default class Header extends Component {
 	onClick = () =>{
@@ -8,7 +9,8 @@ export default class Header extends Component {
 	};
 	render() {
 		return (
-					<header className='header'>
+				<header className='header'>
+					<div className='header__top'>
 						<div className='logo'>
 							<Link className='logo__link' Link to='/'>Home</Link>
 						</div>
@@ -17,7 +19,9 @@ export default class Header extends Component {
 							<span></span>
 							<span></span>
 						</div>
-					</header>
+					</div>
+					<IndicatorOfScroll/>
+				</header>
 		);
 	}
 
